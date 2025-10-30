@@ -28,6 +28,12 @@ istream &operator>>(istream &in, complex &c) {
 }
 
 int main() {
+    
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     complex c1;
     cin >> c1;
     cout << "The complex object is: ";
@@ -40,4 +46,5 @@ int main() {
 
 // Enter Real Part: 5
 // Enter Imaginary Part: 7
+
 // The complex object is: 5 + i7
