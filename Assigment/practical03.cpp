@@ -84,6 +84,12 @@ class checkingAccount{
     }
     };
     int main(){
+
+        cout<<"Name : Apurva Shinde"<<endl;
+        cout<<"class : SY-B"<<endl;
+        cout<<"Batch : B3"<<endl;
+        cout<<"Roll No. : 85"<<endl;
+        
         SavingAccount savings("alice",1001,5000.0, 3.0);
         checkingAccount checking("Bob",1002,3000.0,20.0);
         savings.display();
@@ -122,4 +128,5 @@ class checkingAccount{
 // Account Holder: Bob
 // Account number: 1002
 // balance 1000
+
 // transaction fee 20
