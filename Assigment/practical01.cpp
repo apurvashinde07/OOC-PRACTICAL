@@ -23,6 +23,12 @@ class student{
 
 };
 int main(){
+    
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     student studentObj;
     studentObj.inputdetails();
     cout<<"\n student Details: \n";
@@ -40,4 +46,5 @@ int main(){
 //  student Details: 
 // student name: Apurva
 // roll number: 85
+
 // marks: 89
