@@ -31,6 +31,12 @@ public:
 };
 
 int main() {
+
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     TA obj;
     return 0;
 }
@@ -41,4 +47,5 @@ int main() {
 // Faculty's constructor called
 // Person's constructor called
 // Student's constructor called
+
 // TA's constructor called
