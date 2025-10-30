@@ -68,6 +68,11 @@ public:
 
 int main()
 {
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     StudentResult str; 
     cout << "\n Enter No of Students You Want :";
     str.accept_data();
@@ -105,4 +110,5 @@ int main()
 //  Marks of Subject 4 :98
 //  Marks of Subject 5 :89
 //  Marks of Subject 6 :87
+
 //  Total Percentage :88.1667
