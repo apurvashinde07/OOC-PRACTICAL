@@ -15,11 +15,18 @@ public:
 };
 
 int main() {
+    
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     Distance d1(18, 9);
     -d1;
     return 0;
 }
 
 //output:
+
 
 // Feet & Inch(Decrement): 17 feet 8 inch
