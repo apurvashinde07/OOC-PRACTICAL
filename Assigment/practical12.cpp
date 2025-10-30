@@ -9,6 +9,11 @@ using namespace std;
 
 int main()
 {
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     // Creation of ofstream class object
     ofstream fout;
     string line;
@@ -66,4 +71,5 @@ int main()
 // assigment
 // ooc
 // Practical
+
 // submission
