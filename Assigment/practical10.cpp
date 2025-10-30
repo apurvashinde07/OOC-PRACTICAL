@@ -74,6 +74,12 @@ public:
 
 // Main function
 int main() {
+
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     // Create objects of different shapes
     Circle circle(7.0);
     Rectangle rectangle(4.2, 8.0);
@@ -109,3 +115,4 @@ int main() {
 // Triangle:
 // Area: 5.8657
 // Perimeter: 11.2
+
