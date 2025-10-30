@@ -96,6 +96,12 @@ public:
 
 // Main function
 int main() {
+
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     Employee* employees[3];
 
     SalariedEmployee newSalariedEmployee;
@@ -162,5 +168,6 @@ int main() {
 // Base Salary: 1000
 // Overtime: 4 hours
 // Total Salary: 1060
+
 
 // Press any key to continue . . . 
