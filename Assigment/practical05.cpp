@@ -6,6 +6,11 @@ float area(float);
 float area(float,float);
 int main()
 {
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     int s, l, b;
     float r,bs,ht;
     cout<<"enter side of a square: ";
@@ -45,4 +50,5 @@ float area(float bs,float ht)
 // enter base & heigth of rectangle: 4 2
 // Area of a square is: 4Area of rectangle: 6
 //  Area of circle is: 28.26
+
 //  area of triangle is: 4
