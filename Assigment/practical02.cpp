@@ -21,6 +21,12 @@ class complex{
     }
 };
 int main(){
+
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     complex c1(4, 5);
     cout<<"Complex Number 1: "<<c1.real<<"+i"<<c1.imaginary<<endl;
     complex c2(8, 9);
@@ -48,4 +54,5 @@ int main(){
 // Sum of complex number: 12+i14
 // Complex number 1: 2+i7
 // Complex Number 2: 10+i6
+
 // Sum of complex number: 12+i13
