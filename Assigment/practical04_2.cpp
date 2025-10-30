@@ -18,6 +18,11 @@ class construct{
 };
 int main()
 {
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     construct o;
     construct o2 (10,20);
     o.disp();
@@ -28,4 +33,5 @@ int main()
 
 //output:
 // 0
+
 // 200
