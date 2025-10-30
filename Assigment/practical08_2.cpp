@@ -21,6 +21,12 @@ Distance Distance::operator+(Distance d2) {
 }
 
 int main() {
+    
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     Distance d1(18, 9);
     Distance d2(12, 4);
     Distance d3;
@@ -33,4 +39,5 @@ int main() {
 //output:
 
 // After overloaded operator
+
 // 30 Feet & 13 Inch
