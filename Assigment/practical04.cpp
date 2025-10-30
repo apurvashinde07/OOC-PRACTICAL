@@ -30,6 +30,12 @@ public:
   }
   };
   int main(){
+
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     Rectangle rect(4.0,40.0);
     cout<<"Rectangle Properties: "<<endl;
     cout<<"Length: "<<rect.getlength()<<endl;
@@ -47,4 +53,5 @@ public:
 // Width: 40
 // Area: 160
 // Perimeter: 88
+
 // Rectangle object destroyed.
