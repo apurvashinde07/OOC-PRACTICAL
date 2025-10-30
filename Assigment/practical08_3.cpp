@@ -13,6 +13,12 @@ public:
 };
 
 int main() {
+
+    cout<<"Name : Apurva Shinde"<<endl;
+    cout<<"class : SY-B"<<endl;
+    cout<<"Batch : B3"<<endl;
+    cout<<"Roll No. : 85"<<endl;
+    
     MyClass obj1(10);
     MyClass obj2(20);
 
@@ -44,4 +50,5 @@ int main() {
 // obj1 is less than obj2
 // obj1 is not greater than obj2
 // obj1 is not equal to obj2
+
 // obj1 is not greater than or equal to obj2
