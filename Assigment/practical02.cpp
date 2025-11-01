@@ -1,3 +1,4 @@
+//C++ program to add two complex numbers using a class, object, and constructor.
 #include<iostream>
 using namespace std;
 class complex{
@@ -56,3 +57,4 @@ int main(){
 // Complex Number 2: 10+i6
 
 // Sum of complex number: 12+i13
+
