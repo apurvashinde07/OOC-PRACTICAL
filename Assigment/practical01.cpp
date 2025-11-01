@@ -1,3 +1,4 @@
+//C++ program to demonstrate the concept of class and object using student details.
 #include<iostream>
 using namespace std;
 class student{
@@ -48,3 +49,4 @@ int main(){
 // roll number: 85
 
 // marks: 89
+
