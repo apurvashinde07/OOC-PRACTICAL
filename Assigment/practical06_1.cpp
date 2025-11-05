@@ -72,12 +72,18 @@ int main()
     cout<<"class : SY-B"<<endl;
     cout<<"Batch : B3"<<endl;
     cout<<"Roll No. : 85"<<endl;
+    cout<<endl;
     
     StudentResult str; 
+    int cnt;
     cout << "\n Enter No of Students You Want :";
+    cin>>cnt;
+    for (int i = 0; i < cnt; i++)
+    {
     str.accept_data();
     str.display_data();
     str.calculate();
+    }
     return 0;
 }
 
@@ -112,3 +118,4 @@ int main()
 //  Marks of Subject 6 :87
 
 //  Total Percentage :88.1667
+
